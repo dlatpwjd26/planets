@@ -4,8 +4,8 @@
 ---------------------
 
 >*me*
->1. 2015136132
->2.choi ji woon
+> 1. 2015136132
+> - *choi ji woon*
 
 [link](http://www.naver.com)
 [naver][naver]
