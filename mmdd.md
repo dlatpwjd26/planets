@@ -53,6 +53,7 @@ koreatech lee kyu young
 
 ## 각 시스템 구성 요소 간의 동작 흐름 ##
 
-
-
 ![](KakaoTalk_20160607_222342212.png)
+![](KakaoTalk_20160607_222342135.png)
+![](KakaoTalk_20160607_222341694.png)
+![](KakaoTalk_20160607_222341761.png)
