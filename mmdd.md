@@ -21,3 +21,5 @@ koreatech lee kyu young
 | OSC | $600 |  3   |
 | Reverb    | $120   |  2   |
 | Filter   | $310    |  2  |
+
+** 문제상황(실제 사례) - 타지에서 대중교통파악불능 **
