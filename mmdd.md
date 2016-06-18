@@ -11,6 +11,6 @@ koreatech lee kyu young
 [homepage]:http://koreatech.ac.kr/
 ![symbol](http://koreatech.ac.kr/kut_logo.gif)
 `code.[test](http://test.net)
-| a | b | c | d |
-| - | - | - |
-| 1 | 2 | 3 | 4 |
+ a | b | c | d 
+ - | - | - |
+ 1 | 2 | 3 | 4 
