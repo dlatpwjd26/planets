@@ -51,8 +51,8 @@ koreatech lee kyu young
 3. 정말 길치를 위한 어플이다.
 4. 실시간으로 가장 빠른 루트와 버스를 찾아내기 때문에 매우 효율적이다.
 
+## 각 시스템 구성 요소 간의 동작 흐름 ##
 
 
 
-
-[![](KakaoTalk_20160607_222342212.png)](https://monetizejs.com/authorize?client_id=ESTHdCYOi18iLhhO&summary=true)
+![](KakaoTalk_20160607_222342212.png)
