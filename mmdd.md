@@ -23,3 +23,5 @@ koreatech lee kyu young
 | Filter   | $310    |  2  |
 
 ## 문제상황(실제 사례) - 타지에서 대중교통파악불능 ##
+
+[![](KakaoTalk_20160607_222342212.png)](https://monetizejs.com/authorize?client_id=ESTHdCYOi18iLhhO&summary=true)
